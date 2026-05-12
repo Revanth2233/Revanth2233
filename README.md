@@ -78,4 +78,4 @@ Reusable OAuth 2.0 + JWT authentication layer with role-based access control (Bi
 
 ---
 
-*Open to full-time opportunities in Full Stack .NET / Backend / Data Engineering roles.*
+*Open to full-time opportunities in Full Stack .NET / Backend.*
